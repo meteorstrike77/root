@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+}
+.links{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    float: left;
+    font-family: fantasy;
+    z-index: 10;
+    color: blue;
+}
+h1{
+    z-index: 9;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-right: 350px;
+}
+.links:hover{
+    background-color: yellow;
+}
